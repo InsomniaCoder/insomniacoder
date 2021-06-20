@@ -1,16 +1,14 @@
-### Hi there 👋
+# Hi there / Sawasdee krub / Hola! ✌🏻
 
-<!--
-**InsomniaCoder/insomniacoder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Paul. I am a DevOps engineer with background of building an automated infrastructure platform for enterprises and now taking care of the whole infrastructure of my fast-paced fin-tech company.
 
-Here are some ideas to get you started:
+## Passsion
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My passion is to make developer's lives easier. I am happy to see the platform I built helps developer to work easily and of course, fun.
+
+
+## What's new
+
+- I am learning Golang as a new programming language, as well as Spanish 🇪🇸.
+
+- I am taking another deeper step into Kubernetes world  💪🏻 by studying KubeBuilder, Mutating webhooks, etc
