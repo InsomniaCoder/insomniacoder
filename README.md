@@ -4,11 +4,11 @@ My name is Paul. I am a DevOps engineer with background of building an automated
 
 ## Passsion
 
-My passion is to make developer's lives easier. I am happy to see the platform I built helps developer to work easily and of course, fun.
+My passion is to make developer's lives easier. I am happy to see the platform I built helps developer to work easily and of course, fun to work in.
 
 
 ## What's new
 
-- I am learning Golang as a new programming language, as well as Spanish 🇪🇸.
+- I am learning Golang as a new programming language, as well as Spanish 🇪🇸. (Learning a new human language as a programmer feels a bit odd to me though :p)
 
 - I am taking another deeper step into Kubernetes world  💪🏻 by studying KubeBuilder, Mutating webhooks, etc
