@@ -1,6 +1,6 @@
 # Hi there / Sawasdee krub / Hola! ✌🏻
 
-My name is Tant. I am a SRE engineer here at Adevinta living in Barcelona, Spani. My work is to build a platform, and evolve with it.
+My name is Tanat. I am a SRE engineer here at Adevinta living in Barcelona, Spani. My work is to build a platform, and evolve with it.
 
 ## Passsion
 
