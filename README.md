@@ -10,3 +10,5 @@ https://insomniacoder.github.io/
 
 
 https://github.com/kyverno/kyverno/pull/15865
+https://github.com/grafana/loki/pull/12728
+https://github.com/external-secrets/external-secrets/pull/1593
